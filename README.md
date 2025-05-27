@@ -73,5 +73,5 @@ I'm a passionate **Frontend Developer** who loves to blend creativity with code.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Open+to+collaborate+on+exciting+projects!;Let%E2%80%99s+connect+and+create+magic+%F0%9F%A7%AA" alt="Typing SVG" style="filter: drop-shadow(0 0 6px #00FFFF) drop-shadow(0 0 16px #36BCF7);">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Open+to+collaborate+on+exciting+projects!;Let%E2%80%99s+connect+and+create+magic+" alt="Typing SVG" style="filter: drop-shadow(0 0 6px #00FFFF) drop-shadow(0 0 16px #36BCF7);">
 </p>
