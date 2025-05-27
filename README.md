@@ -5,7 +5,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/MARIUAM/MARIUAM/assets/your-github-userid/![images](https://github.com/user-attachments/assets/91b72f5d-e098-40f9-85f3-ada24274b04f)
+  <img src="https://github.com/MARIUAM/MARIUAM/assets/your-github-userid/![![images](https://github.com/user-attachments/assets/d6c4bdd2-cd20-4437-b476-7f3699de4c81)
+](https://github.com/user-attachments/assets/91b72f5d-e098-40f9-85f3-ada24274b04f)
 " alt="Banner" width="80%">
 </div>
 
