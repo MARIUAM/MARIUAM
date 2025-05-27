@@ -1,16 +1,15 @@
 <!-- Profile README for MARIUAM -->
 
+<!-- Neon Typing Animation Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+MARIUAM!;Frontend+Developer+%7C+AI+Enthusiast;Let's+build+something+awesome+%F0%9F%92%A1" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+MARIUAM!;Frontend+Developer+%7C+AI+Enthusiast;Let's+build+something+awesome+With+Maryam+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
+
 <div align="center">
-  <img src="https://github.com/MARIUAM/MARIUAM/assets/your-github-userid/![![images](https://github.com/user-attachments/assets/d6c4bdd2-cd20-4437-b476-7f3699de4c81)
-](https://github.com/user-attachments/assets/91b72f5d-e098-40f9-85f3-ada24274b04f)
-" alt="Banner" width="80%">
+  <img src="https://imageio.forbes.com/specials-images/imageserve/67994ac8104f98adf9996e83//960x0.jpg?height=399&width=711&fit=bounds" alt="Banner" />
 </div>
 
----
 
 ## 👋 About Me
 
@@ -60,7 +59,7 @@ I'm a passionate **Frontend Developer** who loves to blend creativity with code.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/maryam-saleem-b5696b323/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
   </a>
   <a href="https://twitter.com/your-handle" target="_blank">
@@ -74,5 +73,5 @@ I'm a passionate **Frontend Developer** who loves to blend creativity with code.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Open+to+collaborate+on+exciting+projects!;Let%E2%80%99s+connect+and+create+magic+%F0%9F%A7%AA" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Open+to+collaborate+on+exciting+projects!;Let%E2%80%99s+connect+and+create+magic+%F0%9F%A7%AA" alt="Typing SVG" style="filter: drop-shadow(0 0 6px #00FFFF) drop-shadow(0 0 16px #36BCF7);">
 </p>
