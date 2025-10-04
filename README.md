@@ -6,9 +6,7 @@
 </p>
 
 
-<div align="center">
-  <img src="https://imageio.forbes.com/specials-images/imageserve/67994ac8104f98adf9996e83//960x0.jpg?height=399&width=711&fit=bounds" alt="Banner" />
-</div>
+
 
 
 ## 👋 About Me
